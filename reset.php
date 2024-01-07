@@ -22,7 +22,7 @@
     {
         // Then redirect the user to the sign-in page !
         header("location: sign-in.php");
-        exit;
+        exit; // No more Content sent to the user
     }
     else
     {}
