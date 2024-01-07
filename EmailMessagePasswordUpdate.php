@@ -2,6 +2,7 @@
   Name: - Himanshu  
   File name:  - EmailMessagePasswordUpdate
   Folder Name: - Lab04
+  Description:  This is Just a HTML Reset Password Email Template used to Redirect the user to Reset Password Page !
  -->
 <?php
     // Again, i have buffered the header file because it again has some session variables which need to be initialized.
