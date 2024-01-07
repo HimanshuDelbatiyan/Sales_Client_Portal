@@ -13,7 +13,7 @@ This Website has Following Functionalities: -
 9. Secure Password Hashing.
 10. Password Reset with Email Functionality (Not Real though but generate a HTML Email Template and logged the user to that page)
 11. Password Update
-12. 
+
 
 
 
