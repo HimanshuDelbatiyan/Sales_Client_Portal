@@ -1,7 +1,8 @@
-<!-- -- Name: - Kanav
+<!-- -- Name: - Himanshu
 -- Student ID:   - 100898751
 -- file name: - salespeople.sql
--- Folder name: - Lab01 -->
+-- Description: This is the Sign in Page of Sales Client Portal where Email and Password is used to login into the website.
+-->
 
 
 <?php
@@ -11,7 +12,7 @@
     // Including the functions file
     include "./functions.php";
 
-    // Again, i have buffered the header file because it again has some session variables which need to be initialized.
+    // Starting the buffering !
     ob_start();
 
     // Including the header File !
